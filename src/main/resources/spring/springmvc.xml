@@ -29,8 +29,8 @@
 		<property name="maxUploadSize" value="5242880"></property>
 	</bean> -->
 	<!-- 引用dubbo服务 -->
-	<!-- <dubbo:application name="e-manager-web"/>
+	<dubbo:application name="e-manager-web"/>
 	<dubbo:registry protocol="zookeeper" address="192.168.25.128:2181"/>	
-	<dubbo:reference interface="com.cusx.service.ItemService" id="itemService" /> 
-	<dubbo:reference interface="com.cusx.service.ItemCatService" id="itemCatService" />  -->
+	<dubbo:reference interface="com.cusx.content.service.ContentService" id="contentService" /> 
+	
 </beans>

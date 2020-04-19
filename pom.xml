@@ -10,11 +10,11 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <dependencies>
-		<!-- <dependency>
+		<dependency>
 			<groupId>com.cusx</groupId>
-			<artifactId>e3-content-interface</artifactId>
+			<artifactId>e-content-interface</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-		</dependency> -->
+		</dependency>
 		<!-- Spring -->
 		<dependency>
 			<groupId>org.springframework</groupId>

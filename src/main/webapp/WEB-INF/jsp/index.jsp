@@ -46,7 +46,7 @@
 			  </a>
 			</li>
 			</c:forEach>
-			 <li>
+			<!-- <li>
 			  <a name="sfbest_hp_hp_focus_1" class="fore_pic trackref" href="/html/activity/1471934470.html" target="_blank"> 
 				<img id="lunbo_1" alt="8.30-9.5 月饼"	src="/images/html/aa472cb9f9624d22d1fcfd1c4dffbe42.jpg">
 			  </a>
@@ -85,7 +85,7 @@
 				href="/html/activity/1471944414.html" target="_blank"> <img
 					id="lunbo_8" alt="8.27-8.29一元换购"
 					src="/images/html/4dd7317569a06a451c1fe7762d6bf928.jpg">
-			</a></li> 
+			</a></li> -->
 		</ol>
 	</div>      
      <div class="rSide">	
@@ -151,7 +151,8 @@
 						</div>
 						<div class="bprice" id="priceK_b_215383_0">
 							<span><sup>￥</sup></span>19.9
-						</div></li>
+						</div>
+					</li>
 					<li class="price_list0" goods="57111" eid="b_57111_0"
 						id="cx_b_57111_0"><a
 						href="#"
